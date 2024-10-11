@@ -4,8 +4,10 @@
 ## 💻 Projects I Enjoyed
 ## 👉🏻 AutocodeGrader-AI | Python, CodeLlama, Ollama, React, Express.js, Node.js, MongoDB, JWT Jan 2024
 
-• Leveraged React and CodeLlama LLM to streamline code grading with instant feedback, enhancing learning.
+• Leveraged React and CodeLlama LLM to streamline code grading with instant feedback, enhancing learning
+
 • Utilized MongoDB to manage job listings, user profiles, and application data with scalability and performance.
+
 • Used Express.js and Node.js to develop RESTful APIs for efficient client-server communication and data handling.
 
 ## 👉🏻 Job-Tracker | React, Express.js, Node.js, MongoDB, JWT Nov 2022
