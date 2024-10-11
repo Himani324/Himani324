@@ -23,5 +23,7 @@ Cloud & Database Technologies: MySQL, SQL, NoSQL, MongoDB, Cassandra, AWS, GCP
 
 ## 📬 Let's Connect
 LinkedIn: https://www.linkedin.com/in/himani-parikh-571169141/
+
 GitHub: https://github.com/Himani324/
+
 I'm always looking for opportunities to grow and collaborate on exciting projects. Feel free to reach out if you're interested in connecting!
