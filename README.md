@@ -16,9 +16,13 @@ Spearheaded the development of a professional networking application that empowe
 
 ## 🌟 What I've Learned Along the Way
 Languages: Java, Python, HTML5/CSS3, JavaScript, TypeScript, Clojure
+
 Frameworks: Spring Boot, Spring Microservice, J2EE, JPA, Express.js, Node.js, Angular, React - Redux, Bootstrap
+
 Tools: Git (GitHub, GitLab), JIRA, SDLC, Agile
+
 Skills: Web Scraping, Data Mining, Machine learning, Deep learning, Big Data Analytics, Data Analysis
+
 Cloud & Database Technologies: MySQL, SQL, NoSQL, MongoDB, Cassandra, AWS, GCP
 
 ## 📬 Let's Connect
