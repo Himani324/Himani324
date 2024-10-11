@@ -2,7 +2,6 @@
   <img align="right" top="700" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 <h1 align="center">Hi 👋, I'm Himani Parikh 🚀</h1>
-
 I'm a CS graduate from NYIT Manhattan with 2.5 years of hands-on experience as a Full Stack Engineer. I specialize in building scalable applications using Java, Spring Boot, Angular, and the MERN stack. My expertise includes designing secure RESTful APIs, implementing cloud-native architectures with AWS, and maintaining CI/CD pipelines. Currently focused on developing innovative solutions while exploring new technologies. 
 
 ## 💻 Projects I Enjoyed
