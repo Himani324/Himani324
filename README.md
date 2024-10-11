@@ -4,23 +4,15 @@
 ## 💻 Projects I Enjoyed
 ## 👉🏻 AutocodeGrader-AI | Python, CodeLlama, Ollama, React, Express.js, Node.js, MongoDB, JWT Jan 2024
 
-• Leveraged React and CodeLlama LLM to streamline code grading with instant feedback, enhancing learning
-
-• Utilized MongoDB to manage job listings, user profiles, and application data with scalability and performance.
-
-• Used Express.js and Node.js to develop RESTful APIs for efficient client-server communication and data handling.
+Developed a comprehensive full-stack solution that revolutionized code grading through the integration of React and CodeLlama LLM, providing students with instant feedback on their assignments. The system's backend infrastructure was built using Express.js and Node.js to create efficient RESTful APIs, enabling seamless client-server communication and data handling. Implemented MongoDB for robust data management of job listings, user profiles, and application data, ensuring optimal scalability and performance as the platform grew. This integrated approach significantly enhanced the learning experience while maintaining high system efficiency.
 
 ## 👉🏻 Job-Tracker | React, Express.js, Node.js, MongoDB, JWT Nov 2022
 
-• Engineered full-stack job tracking app with MERN stack, optimizing application management.
-• Integrated JWT for robust user authentication and authorization, enhancing application security.
-• Crafted an intuitive React-based UI, featuring dynamic job search, filtering, and tracking functionalities.
+Engineered a comprehensive job tracking application using the MERN stack, featuring robust user authentication through JWT implementation. The application showcases an intuitive React-based user interface with dynamic job search capabilities, advanced filtering options, and real-time tracking functionalities, streamlining the entire job application management process. This full-stack solution optimizes the job search experience while maintaining high-security standards through proper authorization protocols.
 
 ## 👉🏻 EVA-Referential Based System | Java, Spring boot, WebSocket, Gradle, Angular, MySQL, Bootstrap Sept 2021
 
-• Led the development of a networking app enabling business professionals to create groups for expansion.
-• Integrated chat functionality, event scheduling, region-based group meetings, and a Stripe payment gateway.
-• Utilized Angular reactive programming paradigm and component-based structure to build a responsive and dynamic UI.
+Spearheaded the development of a professional networking application that empowers business professionals to expand their connections through group creation and management. Leveraged Angular's reactive programming paradigm and component-based architecture to deliver a responsive, dynamic user interface, while implementing comprehensive features including real-time chat functionality, an event scheduling system, region-based group meetings, and secure payment processing through Stripe integration.
 
 ## 🌟 What I've Learned Along the Way
 Languages: Java, Python, HTML5/CSS3, JavaScript, TypeScript, Clojure
