@@ -2,17 +2,20 @@
 👋 Hi there! I'm a CS graduate from NYIT Manhattan with 2.5 years of hands-on experience as a Full Stack Engineer. I specialize in building scalable applications using Java, Spring Boot, Angular, and the MERN stack. My expertise includes designing secure RESTful APIs, implementing cloud-native architectures with AWS, and maintaining CI/CD pipelines. Currently focused on developing innovative solutions while exploring new technologies. 
 
 ## 💻 Projects I Enjoyed
-👉🏻 AutocodeGrader-AI | Python, CodeLlama, Ollama, React, Express.js, Node.js, MongoDB, JWT Jan 2024
+## 👉🏻 AutocodeGrader-AI | Python, CodeLlama, Ollama, React, Express.js, Node.js, MongoDB, JWT Jan 2024
+
 • Leveraged React and CodeLlama LLM to streamline code grading with instant feedback, enhancing learning.
 • Utilized MongoDB to manage job listings, user profiles, and application data with scalability and performance.
 • Used Express.js and Node.js to develop RESTful APIs for efficient client-server communication and data handling.
 
-👉🏻 Job-Tracker | React, Express.js, Node.js, MongoDB, JWT Nov 2022
+## 👉🏻 Job-Tracker | React, Express.js, Node.js, MongoDB, JWT Nov 2022
+
 • Engineered full-stack job tracking app with MERN stack, optimizing application management.
 • Integrated JWT for robust user authentication and authorization, enhancing application security.
 • Crafted an intuitive React-based UI, featuring dynamic job search, filtering, and tracking functionalities.
 
-👉🏻 EVA-Referential Based System | Java, Spring boot, WebSocket, Gradle, Angular, MySQL, Bootstrap Sept 2021
+## 👉🏻 EVA-Referential Based System | Java, Spring boot, WebSocket, Gradle, Angular, MySQL, Bootstrap Sept 2021
+
 • Led the development of a networking app enabling business professionals to create groups for expansion.
 • Integrated chat functionality, event scheduling, region-based group meetings, and a Stripe payment gateway.
 • Utilized Angular reactive programming paradigm and component-based structure to build a responsive and dynamic UI.
