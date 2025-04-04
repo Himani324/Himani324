@@ -13,12 +13,12 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/Himani324" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/himani-parikh-571169141" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h4 align="left">I'm a CS graduate from NYIT Manhattan with 2.5 years of hands-on experience as a Full Stack Engineer. I build scalable applications using Java, Spring Boot, Angular, and the MERN stack. My expertise includes designing secure RESTful APIs, implementing cloud-native architectures with AWS, and maintaining CI/CD pipelines. Currently focused on developing innovative solutions while exploring new technologies.🚀</h4>**
+ **<h4 align="left">I'm a CS graduate from NYIT Manhattan with 4 years of hands-on experience as a Full Stack Engineer. I build scalable applications using Java, Spring Boot, Angular, and the MERN stack. My expertise includes designing secure RESTful APIs, implementing cloud-native architectures with AWS, and maintaining CI/CD pipelines. Currently focused on developing innovative solutions while exploring new technologies.🚀</h4>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing project using React, SpringBoot, Rust, Node.js**
-- 🌱 I'm currently learning: **📚 Rust and Blockchain**
+- 🌱 I'm currently learning: **📚 System Design and Blockchain**
 - 💬 Ask me about: **💡 Java, JavaScript, TypeScript, SpringBoot, Angular, React, Node.js, MongoDB, and RESTful APIs**
 
  **<h3 align="left">Skills</h3>**
